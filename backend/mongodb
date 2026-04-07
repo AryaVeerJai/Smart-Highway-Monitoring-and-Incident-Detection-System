@@ -1,0 +1,8 @@
+
+jai_db_user
+q8x1cG4RdrrbvZh5
+
+
+mongodb://jai_db_user:q8x1cG4RdrrbvZh5@ac-fdjv7vy-shard-00-00.curxnbi.mongodb.net:27017,ac-fdjv7vy-shard-00-01.curxnbi.mongodb.net:27017,ac-fdjv7vy-shard-00-02.curxnbi.mongodb.net:27017/gistest?ssl=true&replicaSet=atlas-wuj3q5-shard-0&authSource=admin&appName=PersonalCluster
+
+mongodb+srv://jai_db_user:q8x1cG4RdrrbvZh5@personalcluster.curxnbi.mongodb.net/?appName=PersonalCluster
